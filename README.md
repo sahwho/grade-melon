@@ -9,7 +9,7 @@ It was created using Next.js as a PWA. It also uses TailwindCSS, PostCSS, Flowbi
 
 *This is a third party, unofficial tool. Grade Melon is not affiliated with this company in any way, shape, or form. StudentVUE is a registered trademark owned by Edupoint.
 
-Grade Melon was fully created from reverse engineering StudentVUE's front end, both of which are publicly accesible and did not require any form of NDA or legal agreement to not reverse engineer.
+Grade Melon was fully created from reverse engineering StudentVUE's front end, both of which are publicly accessible and did not require any form of NDA or legal agreement to not reverse engineer.
 
 ## Quick Start
 Clone the repository to your local machine.
